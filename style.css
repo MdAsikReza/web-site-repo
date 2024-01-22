@@ -1,0 +1,363 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.banner{
+    width: 100%;
+    height: 85vh;
+    margin: auto;
+    text-align: center;
+    background-image: url('./assets/images/donation1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.banner > div {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFF;
+   
+
+
+}
+.title{
+    padding: 20px;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.btn-primary{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+    background: #FF5959;
+    border: 0;
+    color: white;
+}
+.asik{
+    margin: 130px;
+    /* text-align: center; */
+
+}
+.reza{
+    font-size: 30px;
+    text-align: center;
+   
+}
+.h1{
+    color: #707070;
+    font-size: 18px;
+}
+
+.style{
+    display: flex;
+    justify-content: center;
+}
+.name{
+    color: #707070;
+    font-size: 30px;
+    border: 2px ;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin: 20px;
+    background: #FAFAFA;
+
+}
+.subname{
+    color: #FF5959;
+    font-size: 30px;
+    border:2px solid #FF5959 ;
+    padding: 20px 30px;
+    margin: 20px;
+    border-radius: 5px;
+    background: #FAFAFA;
+}
+
+.fig{
+    color: #707070;
+    font-size: 30px;
+    border:2px  ;
+    padding: 20px 30px;
+    margin: 20px;
+    border-radius: 5px;
+    background: #FAFAFA;
+}
+.fig-taitle{
+    font-size: 30px;
+    border:2px  ;
+    padding: 20px 30px;
+    margin: 20px;
+    border-radius: 5px;
+    background: #FAFAFA;
+
+}
+.fig-ma{
+    font-size: 30px;
+    border:2px  ;
+    padding: 20px 30px;
+    margin: 20px;
+    border-radius: 5px;
+    background: #FAFAFA;
+}
+.taka{
+    text-align: center;
+     margin: 60px;
+     color: #B3B3B3;
+     font-size: 18px;
+}
+hr{
+    width: 765px;
+    height: 0px; 
+    color: #DADADA;
+     
+}
+.btn-style{
+    color: #FFF;
+    font-size: 20px;
+    border-radius: 5px;
+    background: #FF5959;
+    font-weight: 600;
+    padding: 16px 32px;
+     margin: 30px 10px 30px; 
+   
+}
+.title-style{
+    margin: 130px;
+    
+}
+
+.asik-style{
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+}
+.p-style{
+    color: #707070;
+    font-size: 18px;
+    margin: 20px;
+}
+
+.skil{
+ 
+    width: 360px;
+    height: 352px;
+    border-radius: 5px;
+   background: rgba(79, 157, 166, 0.10);
+ 
+}
+.skill-title{
+    color: #121212;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.skill-description{
+    color: #707070;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.islam{
+    text-align: center ;
+    margin: 130px;
+    
+    
+  
+  
+    
+    
+}
+
+
+.style-css{
+    
+display: flex;
+    
+  
+  
+}
+
+.sk{
+    width: 360px;
+    height: 352px;
+    border-radius: 5px;
+background: rgba(255, 89, 89, 0.10);
+}
+
+.sk-title{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 20px;
+    
+}
+
+.sk-description{
+    color: #707070;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.ski{
+    width: 360px;
+    height: 352px;
+    border-radius: 5px;
+    background: #FFF4D6;
+}
+.ski-title{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.ski-description{
+    color: #707070;
+    font-size: 16px;
+    margin: 20px;
+}
+
+
+.a-style{
+    margin: 130px;
+    width: 1440px;
+    height: 3949px;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+.b-style{
+   font-size: 45px; 
+   font-weight: 700;
+   text-align: center center;
+   margin-bottom: 20px;
+}
+.c-style{
+    color: #707070;
+    font-size: 18px;
+    margin-bottom: 20px;
+    
+}
+.d-style{
+    color: #707070;
+    font-size: 18px;
+    margin: 20px;
+}
+.e-style{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background: #FF5959;
+    padding: 16px 37px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    color: #757575;
+}
+.skill{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30Px; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .banner{
+    width: 100%;
+    height: 85vh;
+    margin: auto;
+    text-align: center;
+    background-image: url('./assets/images/donation1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.banner > div {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aliceblue;
+} */
